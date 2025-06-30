@@ -41,6 +41,10 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Technical Report](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training  
+*[2506][Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing] (IACAS) [Paper](https://arxiv.org/pdf/2506.09965)
+
+* [2505][DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning] (Xiaohongshu Inc.) [Paper](https://arxiv.org/pdf/2505.14362)
+
 * [2504][SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement] (University of Maryland) [Paper](https://arxiv.org/pdf/2504.07934)
 
 * [2503][Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning] (PKU) [Paper](https://arxiv.org/abs/2503.20752)
