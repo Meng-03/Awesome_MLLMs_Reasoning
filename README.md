@@ -43,6 +43,10 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 ### 📌 2.Generated Data Guided Post-Training  
 *[2506][Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing] (IACAS) [Paper](https://arxiv.org/pdf/2506.09965)
 
+*[2505][Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL] (BIT) [Paper](https://arxiv.org/pdf/2505.15436)
+
+*[2505][GRIT: Teaching MLLMs to Think with Images] (UC Santa Cruz) [Paper](https://arxiv.org/pdf/2505.15879)
+
 * [2505][DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning] (Xiaohongshu Inc.) [Paper](https://arxiv.org/pdf/2505.14362)
 
 * [2504][SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement] (University of Maryland) [Paper](https://arxiv.org/pdf/2504.07934)
