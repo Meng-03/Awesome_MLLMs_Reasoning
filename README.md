@@ -43,7 +43,7 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Technical Report](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training  
-*[2506][Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing] (IACAS) [Paper](https://arxiv.org/pdf/2506.09965)
+*[2506][Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing] (CASIA) [Paper](https://arxiv.org/pdf/2506.09965)
 
 *[2505][Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL] (BIT) [Paper](https://arxiv.org/pdf/2505.15436)
 
