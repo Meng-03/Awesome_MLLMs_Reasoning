@@ -143,6 +143,8 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 
 
 ### 💰 5.MLLM Reward Model
+* [2505] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](CASIS) [Paper](https://arxiv.org/pdf/2505.02835)
+
 * [2503] [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](Shanghai AI Lab) [Paper](https://huggingface.co/papers/2503.10291) [Blog](https://internvl.github.io/blog/2025-03-13-VisualPRM/)
 
 * [2503] [Unified Reward Model for Multimodal Understanding and Generation] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2503.05236)
