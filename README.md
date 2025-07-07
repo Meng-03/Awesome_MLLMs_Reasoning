@@ -30,6 +30,8 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 
 * [2506] [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](MiniMax Team) [Technical Report](https://arxiv.org/pdf/2506.13585)
 
+* [2506] [MiMo-VL Technical Report](LLM-Core Xiaomi) [Technical Report](https://www.arxiv.org/pdf/2506.03569)
+
 * [2504] [Kimi-VL Technical Report](Kimi Team) [Technical Report](https://arxiv.org/pdf/2504.07491)
   
 * [2503] [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought] (SkyWork AI) [Technical Report](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) [Model](https://huggingface.co/Skywork/Skywork-R1V-38B)
