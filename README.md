@@ -43,11 +43,13 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Technical Report](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training  
-*[2506][Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing] (CASIA) [Paper](https://arxiv.org/pdf/2506.09965)
+* [2506][Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing] (CASIA) [Paper](https://arxiv.org/pdf/2506.09965)
 
-*[2505][Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL] (BIT) [Paper](https://arxiv.org/pdf/2505.15436)
+* [2506][SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis] (NUS) [Paper](https://arxiv.org/pdf/2506.02096)
 
-*[2505][GRIT: Teaching MLLMs to Think with Images] (UC Santa Cruz) [Paper](https://arxiv.org/pdf/2505.15879)
+* [2505][Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL] (BIT) [Paper](https://arxiv.org/pdf/2505.15436)
+
+* [2505][GRIT: Teaching MLLMs to Think with Images] (UC Santa Cruz) [Paper](https://arxiv.org/pdf/2505.15879)
 
 * [2505][DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning] (Xiaohongshu Inc.) [Paper](https://arxiv.org/pdf/2505.14362)
 
